@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MHUPHILIP
+- 👋 Hi, I’m @Philip (Akash Deep)
 - 👀 I’m interested in problem solving,
 - 🌱 I’m currently learning C Language,
 - 💞️ I’m looking to collaborate on C Language
-- 📫 How to reach me (msg me @MHUPHILI on any social Media)
+- 📫 How to reach me (msg me @MHUPHILIP on any social Media)
 
 🤗😊🌹🇮🇳 **सत्यमेव जयते** 🇮🇳🌹😊🤗
 
